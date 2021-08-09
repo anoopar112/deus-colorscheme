@@ -1,0 +1,35 @@
+[legacy]
+default-show-menubar=false
+headerbar=@mb false
+menu-accelerator-enabled=false
+schema-version=uint32 3
+theme-variant='dark'
+
+[legacy/profiles:]
+default='227cc050-41e2-436e-b967-cf2073e73bf9'
+list=['227cc050-41e2-436e-b967-cf2073e73bf9']
+
+[legacy/profiles:/:227cc050-41e2-436e-b967-cf2073e73bf9]
+allow-bold=true
+background-color='rgb(44,50,59)'
+background-transparency-percent=57
+bold-color='#c5c5c8c8c6c6'
+bold-color-same-as-fg=true
+bold-is-bright=true
+cursor-background-color='#c5c5c8c8c6c6'
+cursor-colors-set=true
+cursor-foreground-color='#161617171919'
+default-size-columns=80
+default-size-rows=25
+font='JetBrainsMono Nerd Font Mono 11'
+foreground-color='rgb(234,234,234)'
+palette=['rgb(36,42,50)', 'rgb(213,78,83)', 'rgb(152,195,121)', 'rgb(229,192,123)', 'rgb(131,165,152)', 'rgb(198,120,221)', 'rgb(112,192,186)', 'rgb(208,207,204)', 'rgb(102,102,102)', 'rgb(236,62,69)', 'rgb(144,201,102)', 'rgb(237,191,105)', 'rgb(115,186,159)', 'rgb(200,88,233)', 'rgb(43,206,194)', 'rgb(255,255,255)']
+scrollback-unlimited=true
+scrollbar-policy='never'
+use-system-font=false
+use-theme-background=false
+use-theme-colors=false
+use-theme-transparency=false
+use-transparent-background=false
+visible-name='deus'
+

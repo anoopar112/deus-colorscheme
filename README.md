@@ -1,4 +1,5 @@
 # vim-deus
+** This is a fork of original deus colorscheme , i have also included colorschemes for gnome-terminal and other applications as possible.
 
 Deus was created out of sheer rage caused by all of the bad Solarized/Gruvbox clones. (No offense)
 I was tired of them. I needed something original, something new. So if you are like me, and I believe many of you are...
